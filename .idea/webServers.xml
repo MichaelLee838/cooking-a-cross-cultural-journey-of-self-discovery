@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b0a73a1c-ecb0-40eb-a829-d61650826e91" name="cooking-a-cross-cultural-journey-of-self-discovery" url="http://bootcamp-coders.cnm.edu/~mlee89/cooking-a-cross-cultural-journey-of-self-discovery/">
-        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="C:\Users\Michael\Desktop\bootcamp\ssh-key openssh" rootFolder="/home/mlee_89/public_html/cooking-a-cross-cultural-journey-of-self-discovery" accessType="SFTP" keyPair="true">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="C:\Users\Michael\Desktop\bootcamp\ssh-key openssh" rootFolder="/home/mlee89/public_html/cooking-a-cross-cultural-journey-of-self-discovery" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
